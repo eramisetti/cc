@@ -1,0 +1,7 @@
+com\lynda\common\aspect\LoggingAspect.class
+com\lynda\common\service\CustomerService.class
+com\lynda\common\data\entity\Customer.class
+com\lynda\common\SpringFoundationsApplication.class
+com\lynda\common\aspect\Loggable.class
+com\lynda\common\data\repository\CustomerRepository.class
+com\lynda\common\web\CustomerWebService.class

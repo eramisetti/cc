@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CC
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: mcave
+Implementation-Vendor-Id: com.cc
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/cc-core/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
